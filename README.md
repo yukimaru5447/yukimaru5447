@@ -3,6 +3,7 @@
 <p align="left">
  <img src="https://img.shields.io/badge/TypeScript-4169e1?style=flat-square&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/Javascript-ffd700?style=flat-square&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/Swift-ed6d35?style=flat-square&logo=swift&logoColor=white">
 </p>
 
 <h3 align="left">Framework & Library</h3>
