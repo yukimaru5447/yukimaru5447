@@ -13,7 +13,7 @@
  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white">
  <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJS&logoColor=white">
  <img src="https://img.shields.io/badge/TailwindCSS-00bfff?style=flat-square&logo=tailwindcss&logoColor=white">
- <img src="https://img.shields.io/badge/MUI-0000ff?style=flat-square&logo=mui&logoColor=white">
+ <img src="https://img.shields.io/badge/MUI-0000cd?style=flat-square&logo=mui&logoColor=white">
  <img src="https://img.shields.io/badge/ChakraUI-20b2aa?style=flat-square&logo=chakraui&logoColor=white">
 </p>
 
