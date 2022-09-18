@@ -1,6 +1,5 @@
 <p align="left">
-<h3>Hi there 👋</h3>
-<img src="https://komarev.com/ghpvc/?username=yukimaru5447&label=Profile%20views&color=0e75b6&style=flat" alt="yukimaru5447" />
+<h3>Hi there 👋</h3><img src="https://komarev.com/ghpvc/?username=yukimaru5447&label=Profile%20views&color=0e75b6&style=flat" alt="yukimaru5447" />
 </p>
 
 <p align="left">
