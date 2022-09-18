@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white">
  <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJS&logoColor=white">
  <img src="https://img.shields.io/badge/Jest-b22222?style=flat-square&logo=Jest&logoColor=white">
- <img src="https://img.shields.io/badge/TestingLibrary-ff4500?style=flat-square&logo=TestingLibrary&logoColor=white">
+ <img src="https://img.shields.io/badge/TestingLibrary-e8383d?style=flat-square&logo=TestingLibrary&logoColor=white">
  <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=Cypress&logoColor=white">
  <img src="https://img.shields.io/badge/TailwindCSS-00bfff?style=flat-square&logo=tailwindcss&logoColor=white">
  <img src="https://img.shields.io/badge/MUI-0000ff?style=flat-square&logo=mui&logoColor=white">
